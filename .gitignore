@@ -1,0 +1,14 @@
+.target
+target
+/.cache
+/.idea/
+/.idea_modules/
+/project/.idea/
+/project/.idea_modules/
+/doc/uml.asta.bak
+/doc/uml.asta.lock
+/.DS_Store
+/cache/
+/tmp/
+/serverman/.idea/
+/serverman/.idea_modules/
